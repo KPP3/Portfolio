@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/keyur-p-patel/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/KPP3"
+        },
+        {
+            "network" : "twitter",
+            "href": "https://twitter.com/Keyur_P_Patel"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:keyurpatel05678@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "intro": "I am dedicated to continual learning and thrive on the opportunity to explore and master new technologies. Over the course of my professional experience, I have cultivated proficiency in various programming languages, technologies, tools, and platforms. This diverse skill set positions me to adeptly navigate and embrace emerging technological developments, underscoring my dedication to staying at the forefront of industry advancements. Here are some of the tools and platforms I retain competence for:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML5"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS3"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/postgresql.png",
+                    "title": "PostgreSQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "ReactJS"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "NodeJS"
+                },
+                {
+                    "icon": "images/skills/ExpressJS.png",
+                    "title": "Express"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "BootStrap"
+                },
+                {
+                    "icon": "images/skills/materializecss.png",
+                    "title": "Materialize"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/vscode.png",
+                    "title": "VS Code"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/GitHub.png",
+                    "title": "GitHub"
+                },
+                {
+                    "icon": "images/skills/Jira.png",
+                    "title": "Jira"
+                },
+                {
+                    "icon": "images/skills/heroku.png",
+                    "title": "Heroku"
+                },
+                {
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
+                }
+            ]
+    }
+]}
