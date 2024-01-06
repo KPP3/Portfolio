@@ -23,8 +23,8 @@
         },
         {
             "image" : "images/projects/WeatherApp.png",
-            "title": "Django Shop",
-            "bodyText": "- Developed an E-commerce web app for small retail stores to have an online presence and also, connect with new customers and handle online orders to generate more revenue and acquire customers.\n - Utilized HTML5 and CSS framework Materialize to develop the front-end UI and Python and Django framework to implement the business logic on the back-end. Also, I leveraged PostgreSQL to store Data.\n - Leveraged AWS S3Bucket for storing images on the web server and deployed the app on Heroku.",
+            "title": "A Weather App",
+            "bodyText": "- Developed a web app that gives users weekly and hourly weather forecast data of the city in consideration.\n - Built Front-End UI by utilizing HTML5, CSS3, JavaScript and React, built reusable components for maximum performance in React JS.\n - Consumed RESTful API such as tomorrow API that allowed users to search any city across the globe. Also created conditions to apply appropriate images of suitable weather.",
             "links": [
                 {
                     "text": "GitHub",
