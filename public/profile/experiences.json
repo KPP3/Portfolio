@@ -2,15 +2,15 @@
     "experiences": [
         {
             "title": "Full-Stack Developer",
-            "subtitle": "MicraSol LLP (Micra Solution), India",
-            "workType": "Part-Time",
+            "subtitle": "Weavole Solutions, India",
+            "workType": "Full-Time",
             "workDescription": [
                 "Participating and working in the designing, planning, execution, and development phases of web-application development along with the product manager, developers and board members to achieve the end-user product.",
                 "Utilizing and gaining hands-on experience in HTML5, CSS3, JavaScript Bootstrap, Express, ReactJs, Node.Js, and MongoDB.",
                 "Developing 5+ features as defined and scoped by planning and product development team of 20+ developers.",
                 "Participating and contributing to 20+ weekly code reviews to ensure the code quality, maintain industry standards, and receive mentoring from the senior Full-Stack developers. Also, identifying and fixing bugs."
             ],
-            "dateText": "01/2023 – Present"
+            "dateText": "01/2024 – Present"
         },
         {
             "title": " Welder - Technical Support",
@@ -22,7 +22,7 @@
                 "Managed 10+ support tickets daily and achieved more than 95% success rate by utilizing analytical and problem-solving skills to isolate and resolve complex technical problems through appropriate troubleshooting methodology and ensured consistent production. ",
                 "Trained new employees and worked closely with Team Lead, Supervisor, Engineers, and Quality Assurance Team to achieve the production target."
             ],
-            "dateText": "02/2021 – 06/2022"
+            "dateText": "06/2021 – 05/2023"
         }
     ]
 }
